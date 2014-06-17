@@ -17,6 +17,7 @@ public class TeleBot {
     public static void main(String[] args) {
         
         System.out.println("Hooray!");
+        System.out.println("Hey what's up");
         
         
     }//End main
